@@ -20,7 +20,7 @@ namespace CustomerManager.Controllers
             new EFContextProvider<CustomerManagerContext>();
 
         public BreezeDataServiceController()
-        {
+        { 
             //System.Threading.Thread.Sleep(5000); 
         }
 
